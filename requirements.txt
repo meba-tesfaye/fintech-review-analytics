@@ -1,0 +1,8 @@
+google-play-scraper 
+pandas 
+pytest 
+scikit-learn 
+spacy 
+transformers 
+torch 
+psycopg2-binary
